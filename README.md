@@ -1,1 +1,1 @@
-a simple contract deployed on swisstronik testnet
+a simple contract deployed on swisstronik testnet using hardhat
